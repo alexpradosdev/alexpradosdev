@@ -1,7 +1,5 @@
 <h1 align="center"><b>Hola, soy Alejandro Prados </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://media1.tenor.com/m/23cMPonP3z4AAAAd/pokemon-charizard.gif" />
-
 
 Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma. Actualmente, me dedico a hacer cursos complementarios para poder afianzar los conocimientos de las clases y poder aprender tecnologías de utilidad para mis prácticas. 
 - 🫎 Tras haber completado mis cursos de Java, HTML, CSS y Javascript (o ECMAScript, ya que el nombre "Javascript" es propiedad de *Oracle* pese a no darle uso), busco aprender algún framework de front-end y back-end, como React o Spring.

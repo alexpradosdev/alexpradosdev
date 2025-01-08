@@ -1,11 +1,9 @@
 <h1 align="center"><b>Hola, soy Alejandro Prados </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
-Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma. Actualmente, me dedico a hacer cursos complementarios para poder afianzar los conocimientos de las clases y poder aprender tecnologías de utilidad para mis prácticas. 
-- Tras haber completado mis cursos de Java, HTML, CSS y Javascript (o ECMAScript, ya que el nombre "Javascript" es propiedad de *Oracle* pese a no darle uso), busco aprender algún framework de front-end y back-end, como React o Spring.
-- Esto es una carrera de fondo, por lo que habrá que estudiar y programar sin parar.
+Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma. Mi objetivo es aprender sobre tecnologías y frameworks, a medida que voy afianzando mis conocimientos.
 
-## En resumen, actualmente tengo control sobre:
+## Actualmente, tengo conocimientos sobre:
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
